@@ -41,7 +41,5 @@ keywords = {Deep learning, Medical image segmentation, Consistency regularizatio
 
 
 ## Acknowledgements
-
-[SSL4MIS]: https://github.com/HiLab-git/SSL4MIS
-[UGPCL]: https://github.com/taovv/UGPCL
-
+[SSL4MIS](https://github.com/HiLab-git/SSL4MIS)
+[UGPCL](https://github.com/taovv/UGPCL)
