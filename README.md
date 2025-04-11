@@ -4,7 +4,7 @@
 
 ## News
 
-Congratulations! This work has been accepted by *Neurocomputing*. The full version of this paper, including detailed information and data, can be accessed at https://arxiv.org/abs/2405.06288.
+Congratulations! This work has been accepted by *Neurocomputing*. The full version of this paper, including detailed information and data, can be accessed at [CCL-MPC](https://www.sciencedirect.com/science/article/pii/S0925231224020587).
 
 ## Core idea
 
